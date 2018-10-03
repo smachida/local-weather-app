@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  appId: '<your app id>',
+  appId: '',
   baseUrl: 'http://'
 };
 
